@@ -1,4 +1,4 @@
-# Food Hygiene Analysis using Food Standards Agency's API
+# Food Hygiene Rating Analysis using Food Standards Agency's API
 
 
 ## Table of Contents
