@@ -16,7 +16,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the food hygiene rating in Sutton, South London over the past years. By analysing various aspects of the food hygiene data, we seek to gain deeper understanding of the trends and make data-driven recommendations to businesses and Food Standards Agency.
+This project analyses food hygiene ratings in Sutton, South London over the past years, to uncover trends and provide data-driven recommendations. The insights aim to guide businesses and the Food Standards Agency in improving hygiene practices and enhancing public health.
 
 
 ### Key Aspect of the Project
