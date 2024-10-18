@@ -46,7 +46,8 @@ The following Python libraries were used in this project:
 
 ### Data Sources
 
-Food Hygiene Ratings Scheme (FHRS) Data
+Food Hygiene Ratings Scheme (FHRS) Data.
+
 The data provides the food hygiene rating or inspection result given to a business and reflect the standards of food hygiene found on the date of inspection or visit by the local authority. Businesses include restaurants, pubs, cafés, takeaways, hotels and other places consumers eat, as well as supermarkets and other food shops.
 
 The scheme gives businesses a rating from 5 to 0 which is displayed at their premises and online so you can make more informed choices about where to buy and eat food.
@@ -88,7 +89,7 @@ else:
 The analysis results are summarised as follows:
 1. Inspection Coverage: 84.3% of businesses have been inspected, 9.5% are 'Exempt' (low-risk establishments), and 6.2% are 'Awaiting Inspection,' indicating broad compliance with inspection requirements.
 2. High-Rated Sectors: Healthcare, hospitality, and food distribution sectors generally receive higher ratings, likely due to stricter hygiene standards.
-3. Low-Rated Takeaways: Takeaway and sandwich shops often score lower, with some rated as low as 1, suggesting challenges in maintaining hygiene in smaller, high-turnover businesses.
+3. Low-Rated Takeaways: Takeaway and sandwich shops often score lower, with some rated as low as 0, suggesting challenges in maintaining hygiene in smaller, high-turnover businesses.
 4. Geographical Patterns: No significant geographic differences in hygiene ratings were observed, indicating that factors like business type are more influential than location.
 
 
